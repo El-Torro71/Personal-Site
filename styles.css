@@ -1,0 +1,53 @@
+
+
+body {
+    align-items: center;
+}
+
+.big-text {
+    padding-top: 10%;
+}
+
+
+.main-text {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+}
+
+.secondary-text {
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+
+
+u {
+    color: #459CE9;
+}
+
+img {
+    width: 400px;
+    background-image: linear-gradient(180deg, rgba(255,0,0,0), white);
+   
+}
+
+.container-fluid {
+   background-color: #151515;
+    color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.experience {
+    padding-bottom: 40px;
+}
+
+
+
+.project-picture{
+    width: 300px;
+}
+
+.projects{
+    padding-left: 50px;
+}
